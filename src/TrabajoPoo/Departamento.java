@@ -7,6 +7,8 @@ package TrabajoPoo;
 // Esta clase representa un departamento dentro de la empresa
 public class Departamento {
     // Aquí guardo el nombre del departamento, como "Recursos Humanos"
+   
+    
     private String nombre;
     
     // Este es el número de empleados que tiene el departamento
